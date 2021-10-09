@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -26,5 +26,21 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Only Registraion page with validations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prem2412/Reactnative-registration-form-page-with-validations.git"
+  },
+  "keywords": [
+    "react-native",
+    "beginner"
+  ],
+  "author": "Prem Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prem2412/Reactnative-registration-form-page-with-validations/issues"
+  },
+  "homepage": "https://github.com/Prem2412/Reactnative-registration-form-page-with-validations#readme"
 }
